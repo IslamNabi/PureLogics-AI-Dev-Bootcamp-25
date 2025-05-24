@@ -1,4 +1,4 @@
-# 🚀 From Zero to AI Hero: 12-Week Machine Learning Journey
+# 🚀 From Zero to AI Hero: 12-Week AI/ML Journey
 
 ## 📚 Course Overview
 - Machine Learning Fundamentals
